@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+fieldset {
+    background-color: #d2e2ff;
+    border-radius: 10px;
+    margin: 20px;
+}
+input {
+    text-align: center;
+    margin: 5px;  
+}
+.formulaire{
+    text-align: center;
+    border-radius: 10px;
+}
+.resultat{
+    background-color: #d2e2ff;
+    border-radius: 10px;
+    margin: 20px;
+}
+h3{
+    margin-left: 25px; 
+}
+p {
+    margin-left: 100px;
+}
